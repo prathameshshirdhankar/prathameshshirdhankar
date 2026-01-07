@@ -70,9 +70,5 @@ I'm a **Software Engineer & Web Developer**, with a strong foundation in **Infor
 
 ---
 
-## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=prathameshshirdhankar&show_icons=true&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshshirdhankar&layout=compact&theme=tokyonight" />
 
