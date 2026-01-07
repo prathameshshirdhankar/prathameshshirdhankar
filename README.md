@@ -1,12 +1,12 @@
 # Hi there 👋, I'm Prathamesh Shirdhankar
 
-## 🚀 About Me
+## About Me
 
 I'm a **Software Engineer & Web Developer**, with a strong foundation in **Information Technology** and hands-on experience building user-focused web applications. I enjoy working at the intersection of **technology, usability, and continuous improvement**, and I'm especially interested in **full‑stack development, digital wellbeing platforms, and emerging technologies like blockchain**.
 
-* 🎓 BE in Information Technology
-* 🌱 Currently improving my skills in **full‑stack development & system design**
-* 🧠 Interested in **intentional technology, productivity tools, and clean UX**
+* BE in Information Technology
+* Currently improving my skills in **full‑stack development & system design**
+* Interested in **intentional technology, productivity tools, and clean UX**
 
 ---
 
